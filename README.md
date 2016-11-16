@@ -11,7 +11,7 @@ Add repository to your POM:
 		<url>https://github.com/indvd00m/maven-repo/raw/master/repository</url>
 	</repository>
 
-Add dependency to your war maven project:
+Add dependency to your maven project:
 
 	<dependency>
 		<groupId>com.indvd00m.plot.ascii</groupId>
@@ -68,7 +68,7 @@ This component is developed as a hobby with no public roadmap or any guarantees 
 
 ## Issue tracking
 
-The issues for this add-on are tracked on its github.com page. All bug reports and feature requests are appreciated. 
+The issues for this project are tracked on its github.com page. All bug reports and feature requests are appreciated. 
 
 ## Contributions
 
@@ -82,6 +82,6 @@ Contributions are welcome, but there are no guarantees that they are accepted as
 
 ## License & Author
 
-Add-on is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
+Poject is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
 
 ascii-plotter is written by David E. Veliev.
