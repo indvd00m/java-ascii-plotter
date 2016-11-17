@@ -55,6 +55,9 @@ Output:
 	-1,00+--------------------------------------------------------------------------
 	     0                90                 180                270              360
 
+## CI
+Maven artifacts are built via Travis: 
+[![Build Status](https://travis-ci.org/indvd00m/java-ascii-plotter.svg?branch=master)](https://travis-ci.org/indvd00m/java-ascii-plotter)
 
 ## Release notes
 
