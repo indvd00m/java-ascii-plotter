@@ -38,7 +38,9 @@ public class Plot implements IPlot {
 		StringBuilder sb = new StringBuilder();
 		for (int i = lines.size() - 1; i >= 0; i--) {
 			StringBuilder line = lines.get(i);
-			sb.append(line).append('\n');
+			sb.append(line);
+			if (i != 0)
+				sb.append('\n');
 		}
 		string = sb.toString();
 	}

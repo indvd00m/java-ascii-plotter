@@ -54,7 +54,7 @@ public class TestPlotterWithoutAxis {
 		expected += "                                                  ***               ***         \n";
 		expected += "                                                    ***           ***           \n";
 		expected += "-1,00                                                 *************             \n";
-		expected += "     0                90                 180                270              360\n";
+		expected += "     0                90                 180                270              360";
 
 		assertEquals(expected, s);
 	}

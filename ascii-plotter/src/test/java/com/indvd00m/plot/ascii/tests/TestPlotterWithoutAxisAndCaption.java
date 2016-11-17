@@ -55,7 +55,7 @@ public class TestPlotterWithoutAxisAndCaption {
 		expected += "                                               **                    ***        \n";
 		expected += "                                                 **                ***          \n";
 		expected += "                                                   ***           ***            \n";
-		expected += "                                                     ************               \n";
+		expected += "                                                     ************               ";
 
 		assertEquals(expected, s);
 	}
