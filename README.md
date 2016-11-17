@@ -59,6 +59,10 @@ Output:
 Maven artifacts are built via Travis: 
 [![Build Status](https://travis-ci.org/indvd00m/java-ascii-plotter.svg?branch=master)](https://travis-ci.org/indvd00m/java-ascii-plotter)
 
+## Download release
+
+https://github.com/indvd00m/java-ascii-plotter/releases
+
 ## Release notes
 
 ### Version 0.1.0-SNAPSHOT
@@ -72,6 +76,13 @@ This component is developed as a hobby with no public roadmap or any guarantees 
 ## Issue tracking
 
 The issues for this project are tracked on its github.com page. All bug reports and feature requests are appreciated. 
+
+## Building and running tests
+```
+git clone https://github.com/indvd00m/java-ascii-plotter/
+cd java-ascii-plotter
+mvn clean install
+```
 
 ## Contributions
 
