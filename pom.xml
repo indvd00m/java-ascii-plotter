@@ -6,7 +6,7 @@
 	<groupId>com.indvd00m.plot.ascii</groupId>
 	<artifactId>java-ascii-plotter</artifactId>
 	<packaging>pom</packaging>
-	<version>0.2.0</version>
+	<version>0.3.0-SNAPSHOT</version>
 	<name>java-ascii-plotter</name>
 	<description>Simple ascii plotter in pure java with no external dependencies</description>
 
