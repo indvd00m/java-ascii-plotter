@@ -4,7 +4,9 @@ import static org.junit.Assert.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
+import org.junit.Before;
 import org.junit.Test;
 
 import com.indvd00m.plot.ascii.IPlot;
@@ -19,6 +21,11 @@ import com.indvd00m.plot.ascii.Point;
  *
  */
 public class TestPlotterWithoutAxisAndCaption {
+
+	@Before
+	public void setUpLocale() throws Exception {
+		Locale.setDefault(Locale.ENGLISH);
+	}
 
 	@Test
 	public void test() {
