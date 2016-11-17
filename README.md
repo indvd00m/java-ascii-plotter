@@ -16,7 +16,7 @@ Add dependency to your maven project:
 	<dependency>
 		<groupId>com.indvd00m.plot.ascii</groupId>
 		<artifactId>ascii-plotter</artifactId>
-		<version>0.1.0</version>
+		<version>0.2.0</version>
 	</dependency>
 
 Create points and plot them:
@@ -67,6 +67,9 @@ https://github.com/indvd00m/java-ascii-plotter/releases
 
 ### Version 0.1.0
 - First beta version.
+
+### Version 0.2.0
+- Fix tests in differents locales.
 
 ## Roadmap
 
