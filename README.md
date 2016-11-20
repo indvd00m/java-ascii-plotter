@@ -1,3 +1,5 @@
+This project is outdated and no longer maintained. See https://github.com/indvd00m/java-ascii-render.
+
 #ascii-plotter
 
 Simple ascii plotter in pure java with no external dependencies.
